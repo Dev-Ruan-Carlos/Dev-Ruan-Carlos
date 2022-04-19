@@ -3,7 +3,7 @@
 - 🧔 Junior web developer
 - 👔 Working with frontend and backend
 - 🏆 Studying VueJs - PHP - JavaScript
-- 🎓 Academic training in Systems Analysis and Development
+- 🎓 Studying Systems Analysis and Development
 
 <div>
   <a href="https://github.com/Dev-Ruan-Carlos">  
